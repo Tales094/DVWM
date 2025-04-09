@@ -1,4 +1,4 @@
-commmande de base de git
+# commmande de base de git
 
 repository = depot
 
